@@ -1,0 +1,59 @@
+[
+  {
+    "seasonTitle": "Chainwhiz Season 1",
+    "noOfBounties": 4,
+    "noOfContributers": 5,
+    "grossBountyReward": 2000,
+    "categories": [
+      "frontend",
+      "backend",
+      "UI/UX",
+      "Smart Contract"
+    ],
+    "logo": "https://bounties.chainwhiz.app/chainwhiz.png",
+    "primaryColor": "#D3FA30",
+    "secondaryColor": "#272727",
+    "socialNetworks": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/chainwhiz"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/y6qQZyf"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/chainwhiz"
+      }
+    ]
+  },
+  {
+    "seasonTitle": "Polygon Season 1",
+    "noOfBounties": 14,
+    "noOfContributers": 15,
+    "grossBountyReward": 8000,
+    "categories": [
+      "frontend",
+      "backend",
+      "UI/UX"
+    ],
+    "logo": "https://bounties.chainwhiz.app/polygon.png",
+    "primaryColor": "#8247E5",
+    "secondaryColor": "#ffffff",
+    "socialNetworks": [
+      {
+        "name": "telegram",
+        "url": "https://t.me/polygon"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/y6qQZyf"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/polygon"
+      }
+    ]
+  }
+]
